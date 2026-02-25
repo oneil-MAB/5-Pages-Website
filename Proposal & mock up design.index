@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Proposal & Mock up Design</title>
+</head>
+<body>
+
+<header>
+    <h1>O'nEIL STORE</h1>
+    <p>Order Your Favorite Food Online</p>
+</header>
+
+<nav>
+    <a href="#">Home</a> |
+    <a href="#">Menu</a> |
+    <a href="#">Order</a> |
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>Our Menu</h2>
+    <article>
+        <h3>Burger</h3>
+        <p>Delicious beef burger - ₱99</p>
+    </article>
+</section>
+
+<section>
+    <h2>Order Now</h2>
+    <form>
+        Name: <input type="text"><br>
+        Order: <input type="text"><br>
+        <button type="submit">Submit</button>
+    </form>
+</section>
+
+<footer>
+    <p>EMAIL:oneilalindog@gmail.com</p>
+</footer>
+
+</body>
+</html>
